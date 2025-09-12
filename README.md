@@ -22,4 +22,4 @@ This repository contains multiple assignments covering different topics in Pytho
 
 5. **Assignment 5: SQL Advanced (Views, Procedures, Triggers, Functions)**  
    - Advanced SQL operations.  
-   - [Go to folder](./Assignment5_SQL)
+   - [Go to folder](assignment5.sql)
