@@ -14,7 +14,7 @@ This repository contains multiple assignments covering different topics in Pytho
 
 3. **Assignment 3: Titanic EDA (Python + Pandas + Visualization)**  
    - Data cleaning, feature engineering, and visualization on Titanic dataset.  
-   - [Go to folder](./Assignment_3_TitanicEDA)
+   - [Go to folder](Assignment_3_TitanicEDA)
 
 4. **Assignment 4: SQL Queries**  
    - Basic SQL queries for sales, customers, and staff.  
