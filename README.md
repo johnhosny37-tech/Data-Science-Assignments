@@ -10,7 +10,7 @@ This repository contains multiple assignments covering different topics in Pytho
 
 2. **Assignment 2: Library System (Python OOP)**  
    - Manage books in a library (add, remove).  
-   - [Go to folder](./Assignment_2_LibrarySystem)
+   - [Go to folder](Assignment_2_LibrarySystem)
 
 3. **Assignment 3: Titanic EDA (Python + Pandas + Visualization)**  
    - Data cleaning, feature engineering, and visualization on Titanic dataset.  
