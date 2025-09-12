@@ -18,8 +18,8 @@ This repository contains multiple assignments covering different topics in Pytho
 
 4. **Assignment 4: SQL Queries**  
    - Basic SQL queries for sales, customers, and staff.  
-   - [Go to folder](./Assignment_4_SQLQueries)
+   - [Go to folder](./Assignment_4_SQL_Analysis)
 
 5. **Assignment 5: SQL Advanced (Views, Procedures, Triggers, Functions)**  
    - Advanced SQL operations.  
-   - [Go to folder](./Assignment_5_SQLAdvanced)
+   - [Go to folder](./Assignment5_SQL)
